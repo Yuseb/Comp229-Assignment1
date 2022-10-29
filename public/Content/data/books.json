@@ -1,0 +1,28 @@
+{
+    "books":
+    [
+        
+        {
+            "name": "Star Wars: Lost Star",
+            "author": "Claudia Gray",
+            "published": "2019",
+            "Genre": "Sci-fiction",
+            "price": 12.95
+        },
+        {
+            "name": "One Piece: Vol 1",
+            "author": "Echiro Oda",
+            "published": "1997",
+            "Genre": "Manga",
+            "price": 10.99
+        },
+        {
+            "name": "Dune",
+            "author": "Frank Herbert",
+            "published": "1965",
+            "Genre": "Sci-fiction",
+            "price": 9.95
+        }
+
+    ]
+}
